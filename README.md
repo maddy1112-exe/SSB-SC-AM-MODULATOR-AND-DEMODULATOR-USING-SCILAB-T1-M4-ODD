@@ -17,6 +17,8 @@ To write a program to perform SSBSC modulation and demodulation using SCI LAB an
 ---
 
 ## ALGORITHM
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/a476c9aa-6203-48c8-b897-375c01844b1a" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/13730a23-3b94-4909-b735-87c8cb255edb" />
 
 ### 1. Define Parameters:
 
@@ -77,5 +79,8 @@ Plot the message signal, carrier signal, SSBSC modulated signal, and the recover
 ---
 
 ## MODEL GRAPH
+<img width="1607" height="867" alt="SSB-SC" src="https://github.com/user-attachments/assets/de7bc614-382c-433a-aa2e-987a91b87f3c" />
+
+
 
 
